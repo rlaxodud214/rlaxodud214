@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlaxodud214&show_icons=true&theme=radical)
+
+[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlaxodud214)](https://solved.ac/rlaxodud214)
 <!--
 **rlaxodud214/rlaxodud214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
